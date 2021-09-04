@@ -1,0 +1,1 @@
+This is package allows you to test your website by using puppeteer.
